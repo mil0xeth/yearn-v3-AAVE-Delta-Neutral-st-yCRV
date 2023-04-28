@@ -1,4 +1,4 @@
-name: tokenized-strategy-ape-mix
+name: aave-delta-neutral-st-ycrv
 
 plugins:
   - name: solidity
